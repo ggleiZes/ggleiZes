@@ -11,6 +11,7 @@
 -->
 
 - 👋 Hi, I’m @ggleiZes.
+- 🔭 I’m currently working at CCI Paris IdF
 - 👀 I’m interested in data sciences and all computing science things.
 - 🌱 I’m currently learning data management.
 - 💞️ I’m looking to collaborate on all data management things.
