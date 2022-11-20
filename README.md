@@ -1,10 +1,4 @@
-### Hi there 👋
-
 <!--
-**ggleiZes/ggleiZes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +7,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
+- 👋 Hi, I’m @ggleiZes.
+- 👀 I’m interested in data sciences and all computing science things.
+- 🌱 I’m currently learning data management.
+- 💞️ I’m looking to collaborate on all data management things.
+- 💬 Ask me about production of sourdough bread. 
+- ⚡ You can corrupt me with sprouted lentils
+- 📫 You can reach me on github.
+
